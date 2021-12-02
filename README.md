@@ -1,3 +1,9 @@
+# Georgia Web
+
+Before running the Available scripts from below, you will need to install dependencies with:
+
+### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
